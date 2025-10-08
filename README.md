@@ -4,6 +4,15 @@ A simple and interactive restaurant billing system built using **Python + Tkinte
 This project demonstrates how to create a basic restaurant billing app with a GUI.
 
 ---
+# Project Structure 📂
+restaurant-bill-management-system/
+├── restaurant_billing.py
+├── README.md
+├── screenshots/
+│   └── restaurant-billing-preview.png  <-- your screenshot here
+└── (other project files)
+
+---
 
 ## 🚀 Features
 
@@ -41,3 +50,28 @@ This project demonstrates how to create a basic restaurant billing app with a GU
    ```bash
    git clone https://github.com/<your-username>/restaurant-bill-management-system.git
    cd "restaurant-bill-management-system"
+2. Run the application
+
+   ```bash
+   python restaurant_billing.py
+
+   ---
+
+##  🔮 Future Improvements
+
+Add more food categories
+
+Implement database storage for bills
+
+Export bills as PDF
+
+Improve GUI design with themes
+
+---
+
+## 👨‍💻 Author
+
+Ayush Patel
+
+---
+GitHub
