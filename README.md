@@ -7,14 +7,14 @@ This project demonstrates how to create a basic restaurant billing app with a GU
 ## Project Structure 📂
 
 ```
+ 
 restaurant-bill-management-system/
 ├── restaurant_billing.py
 ├── README.md
 ├── screenshots/
-   └── restaurant-billing-preview.png  
+│   └── restaurant-billing-preview.png  
+└── (other project files)
 
-
-```
 
 ---
 
@@ -58,8 +58,6 @@ restaurant-bill-management-system/
 
    ```bash
    python restaurant_billing.py
-
-   
 
 ##  🔮 Future Improvements
 
