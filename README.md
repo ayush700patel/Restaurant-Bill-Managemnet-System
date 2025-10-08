@@ -15,8 +15,8 @@ restaurant-bill-management-system/
 │   └── restaurant-billing-preview.png  
 └── (other project files)
 
-
 ---
+```
 
 ## 🚀 Features
 
